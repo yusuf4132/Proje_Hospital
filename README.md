@@ -57,8 +57,10 @@ Uygulama, bir hastanenin temel operasyonlarını yönetebilecek modüller içeri
 | **Entity Framework (EF)**|
 | **MVC / Katmanlı Mimari**|
 
-<img src="./screenshots/1_login.png" />
-<img src="./screenshots/1_login.png" width="400" />
-<img src="./screenshots/1_login.png" width="400" />
-<img src="./screenshots/1_login.png" width="400" />
-<img src="./screenshots/1_login.png" width="400" />
+<img src="./Proje_Hastane/assets/giris.png" />
+<img src="./Proje_Hastane/assets/giris1.png" />
+<img src="./Proje_Hastane/assets/giris2.png" />
+<img src="./Proje_Hastane/assets/giris3.png" />
+<img src="./Proje_Hastane/assets/giris4.png" />
+<img src="./Proje_Hastane/assets/giris5.png" />
+<img src="./Proje_Hastane/assets/giris6.png" />
